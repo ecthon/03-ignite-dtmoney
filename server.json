@@ -47,6 +47,14 @@
       "type": "outcome",
       "createdAt": "2022-07-30T13:38:57.560Z",
       "id": 6
+    },
+    {
+      "description": "Notebook",
+      "price": 5500,
+      "category": "Equipamentos",
+      "type": "outcome",
+      "createdAt": "2024-01-17T00:43:40.218Z",
+      "id": 7
     }
   ]
 }
